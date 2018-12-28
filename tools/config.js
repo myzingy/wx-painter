@@ -12,7 +12,7 @@ const dev = path.join(demoDist, 'components')
 const dist = path.resolve(__dirname, '../miniprogram_dist')
 
 module.exports = {
-  entry: ['index'],
+  entry: ['index','painter'],
 
   isDev,
   isWatch,
@@ -40,7 +40,7 @@ module.exports = {
         test: /\.js$/i,
         use: [
           'babel-loader',
-          'eslint-loader'
+          //'eslint-loader'
         ],
         exclude: /node_modules/
       }],

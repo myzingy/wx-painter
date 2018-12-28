@@ -1,7 +1,7 @@
 {
-  "name": "miniprogram-custom-component",
+  "name": "vkpainter",
   "version": "1.0.0",
-  "description": "",
+  "description": "wechat painter component",
   "main": "miniprogram_dist/index.js",
   "scripts": {
     "dev": "gulp dev --develop",
@@ -29,9 +29,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wechat-miniprogram/miniprogram-custom-component.git"
+    "url": "https://github.com/myzingy/wx-painter.git"
   },
-  "author": "wechat-miniprogram",
+  "author": "vking",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
