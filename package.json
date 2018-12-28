@@ -1,6 +1,6 @@
 {
   "name": "vkpainter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wechat painter component",
   "main": "miniprogram_dist/index.js",
   "scripts": {
