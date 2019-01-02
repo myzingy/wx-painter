@@ -1,6 +1,6 @@
 # miniprogram-custom-component
 
-此组件只是将 https://github.com/Kujiale-Mobile/Painter 做了组件封装，便于使用 npm install 安装;
+此组件只是将 https://github.com/Kujiale-Mobile/Painter 做了组件封装，便于使用 npm install vkpainter 安装;
 ### 推荐使用原作者 git submodule add https://github.com/Kujiale-Mobile/PainterCore.git components/painter 方法进行安装 ###
 ## 安装
 1. ` npm install vkpainter --production `
